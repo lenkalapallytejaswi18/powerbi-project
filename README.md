@@ -65,5 +65,5 @@ The dataset contains **HR-related employee information** including:
 - Attrition decreases as **years at company increase**
 - Male employees show slightly higher attrition compared to female employees
 
-Get Interactive Report:
+
 
